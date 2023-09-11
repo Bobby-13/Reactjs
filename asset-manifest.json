@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Reactjs/static/css/main.f3961f6b.css",
+    "main.css": "/Reactjs/static/css/main.26e17342.css",
     "main.js": "/Reactjs/static/js/main.900f1034.js",
     "static/media/bg-2.jpg": "/Reactjs/static/media/bg-2.60196cf020b23e31f692.jpg",
     "static/media/Divumlogo.svg": "/Reactjs/static/media/Divumlogo.46d55ca37a2d6922f5c050e39be42ab6.svg",
     "index.html": "/Reactjs/index.html",
-    "main.f3961f6b.css.map": "/Reactjs/static/css/main.f3961f6b.css.map",
+    "main.26e17342.css.map": "/Reactjs/static/css/main.26e17342.css.map",
     "main.900f1034.js.map": "/Reactjs/static/js/main.900f1034.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3961f6b.css",
+    "static/css/main.26e17342.css",
     "static/js/main.900f1034.js"
   ]
 }
