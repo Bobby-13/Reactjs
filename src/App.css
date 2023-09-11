@@ -1,0 +1,68 @@
+.App {
+  display: flex;
+  flex-direction: column; 
+  /* align-items: center;
+  justify-content: center; */
+  height: 80vh; 
+  /* background-color: #faf9f6; */
+}
+.btnalign{
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  justify-content: center;
+}
+
+.btn{
+  /* z-index: 1; */
+  /* position:fixed; */
+ 
+  margin-top: 1rem;
+  border:none;
+  background-color: #1d4ed8;
+  color:#fff;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0px 5px 5px #ccc;
+  font-size: 1.3rem;
+}
+
+
+.form-grp{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.form-grp input, .form-grp textarea{
+  border: 1px solid black;
+  border-radius: 0.3rem;
+  padding: 0.3rem;
+  font-size: 1rem;
+}
+
+.form-grp label{
+  margin-bottom: 0.2rem;
+}
+
+.nav-container{
+  /* background-color: #faf9f6; */
+  padding-left:5rem;
+}
+
+.imglogo{
+  /* justify-content: left;  */
+  height: 10rem;
+  width: 10rem;
+}
+
+
+body {
+  /* Set the background image using the `url()` function */
+  background-image: url('./Components/bg-2.jpg');
+  /* Set background properties for sizing and positioning */
+  background-size: cover; /* Cover the entire screen */
+  background-repeat: no-repeat; /* Don't repeat the image */
+  background-attachment: fixed; /* Keep the image fixed in place */
+}
