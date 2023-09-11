@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FullStackCrudApplication/static/css/main.2bee6262.css",
+    "main.js": "/FullStackCrudApplication/static/js/main.8cdc23ca.js",
+    "static/media/bg-2.jpg": "/FullStackCrudApplication/static/media/bg-2.60196cf020b23e31f692.jpg",
+    "static/media/Divumlogo.svg": "/FullStackCrudApplication/static/media/Divumlogo.46d55ca37a2d6922f5c050e39be42ab6.svg",
+    "index.html": "/FullStackCrudApplication/index.html",
+    "main.2bee6262.css.map": "/FullStackCrudApplication/static/css/main.2bee6262.css.map",
+    "main.8cdc23ca.js.map": "/FullStackCrudApplication/static/js/main.8cdc23ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bee6262.css",
+    "static/js/main.8cdc23ca.js"
+  ]
+}
