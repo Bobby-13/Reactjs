@@ -80,13 +80,13 @@
   .ant-table-thead
   > tr
   > td {
-  position: relative;
-  color: rgba(0, 0, 0, 0.88);
-  font-weight: 600;
-  text-align: start;
-  background: #808080;
-  color: white;
-  border-bottom: 2px solid #f0f0f0;
+  position: relative !important;
+  color: rgba(0, 0, 0, 0.88) !important;
+  font-weight: 600 !important;
+  text-align: start !important;
+  background: #808080 !important;
+  color: white !important;
+  border-bottom: 2px solid #f0f0f0 !important;
   /* transition: background 0.2s ease; */
 }
 
